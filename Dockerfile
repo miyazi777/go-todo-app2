@@ -1,5 +1,5 @@
 # デプロイ用コンテナに含めるバイナルを作成するコンテナ
-FROM golang:1.18.2-buillseye as deploy-builder
+FROM golang:1.20.5-bullseye as deploy-builder
 
 WORKDIR /app
 

@@ -60,5 +60,4 @@ func (at *AddTask) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	}{ID: int(id)}
 
 	RespondJSON(ctx, w, rsp, http.StatusOK)
-	return
 }

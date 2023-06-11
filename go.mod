@@ -6,6 +6,7 @@ require golang.org/x/sync v0.2.0
 
 require (
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
+	github.com/go-chi/chi/v5 v5.0.8 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect

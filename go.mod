@@ -10,6 +10,8 @@ require (
 
 require (
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
+	github.com/go-sql-driver/mysql v1.7.1 // indirect
+	github.com/jmoiron/sqlx v1.3.5 // indirect
 	golang.org/x/crypto v0.7.0 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect

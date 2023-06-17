@@ -9,6 +9,7 @@ require (
 )
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/go-sql-driver/mysql v1.7.1 // indirect
 	github.com/jmoiron/sqlx v1.3.5 // indirect
